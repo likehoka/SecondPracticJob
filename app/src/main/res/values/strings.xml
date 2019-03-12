@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecondPracticJob</string>
+    <string name="NextScreen">Next Screen</string>
+    <string name="ResultScreen">Result Screen</string>
+    <string name="SplashScreen">Splash Screen</string>
+    <string name="Null"/>
+    <string name="loadingText">Loading</string>
+    <string name="inputText">Input Text</string>
+    <string name="textResultScreenButton">Вернуть результат</string>
+    <string name="returnMainActivity">Возврат к главному экрану</string>
+</resources>
